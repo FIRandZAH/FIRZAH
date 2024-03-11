@@ -20,4 +20,4 @@ $ cd FIRZAH
 
 $ git pull
 
-$ python firzah_zar.py
+$ python firzah-gmail_zar.py
