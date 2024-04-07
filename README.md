@@ -14,6 +14,8 @@ $ pip install requests
 
 $ pip install rich
 
+$ rm -rf FIRZAH
+
 $ git clone https://github.com/FIRandZAH/FIRZAH
 
 $ cd FIRZAH
