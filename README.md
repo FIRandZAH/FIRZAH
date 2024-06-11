@@ -22,4 +22,4 @@ $ cd FIRZAH
 
 $ git pull
 
-$ python firzah.py
+$ python firzah_zar.py
