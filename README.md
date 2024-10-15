@@ -6,7 +6,7 @@ Selamat datang di repositori data utama!  Repositori ini berisi data penting dal
 
 Repositori ini berisi:
 
-* **isi File Data yang di enkripsi:** seperti nama nya [data utama] data utama file code [encode] dan [decode] dan lain nya 
+* **File Data yang di enkripsi:**  seperti nama nya [data utama] data utama file code [encode] dan [decode] dan lain nya 
 
 ## 🔒  Keamanan Data
 
@@ -19,8 +19,10 @@ Data dalam repositori ini dilindungi dengan enkripsi canggih:
 * **ga bisa di jalanin tanpa code khusus:**  Hanya file code khusus yang dirancang untuk dekripsi mengakses data terenkripsi ini yang dapat membuka file data dan menggunakannya.
 
 
-##  ✉️  Kontak
+##  🤝  Hubungi Kami
 
-WhatsApp: wa.me/6283170597744.
-Gmail: firzah48@gmail.com
+Butuh bantuan atau ada pertanyaan?  Silakan hubungi kami melalui:
+
+* **WhatsApp:** [wa.me/6283170597744](wa.me/6283170597744)
+* **Email:** [firzah48@gmail.com](mailto:firzah48@gmail.com) 
 
