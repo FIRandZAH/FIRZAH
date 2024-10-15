@@ -1,25 +1,48 @@
-# FIRZAH
+## 🔐 Repositori Data Utama
 
-$ pip install --upgrade pip
+Selamat datang di repositori data utama!  Repositori ini berisi data penting dalam bentuk file-file yang telah di enkripsi dengan aman.  Hanya file code khusus yang bisa menjalankan atau mengakses data terenkripsi ini.
 
-$ pkg install git
+## 📁  Isi Repositori
 
-$ pkg install python
+Repositori ini berisi:
 
-$ pip install stdiomask
+* **isi File Data yang di enkripsi:** seperti nama nya [data utama] data utama file code [encode] dan [decode] dan lain nya 
 
-$ pip install bs4
+## 🔒  Keamanan Data
 
-$ pip install requests
+Data dalam repositori ini dilindungi dengan enkripsi canggih:
 
-$ pip install rich
+* **Algoritma Enkripsi:**  AES-256
 
-$ rm -rf FIRZAH
+## 🔑  Akses Data
 
-$ git clone https://github.com/FIRandZAH/FIRZAH
+* **ga bisa di jalanin tanpa code khusus:**  Hanya file code khusus yang dirancang untuk dekripsi mengakses data terenkripsi ini yang dapat membuka file data dan menggunakannya.
 
-$ cd FIRZAH
 
-$ git pull
+##  ✉️  Kontak
 
-$ python firzah.py
+WhatsApp: wa.me/6283170597744
+Gmail: firzah48@gmail.com
+
+##  📄  Lisensi
+
+Copyright (c) 2024 FIRandZAH
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
