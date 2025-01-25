@@ -1,8 +1,30 @@
 {
-    "Samsung Galaxy S21": {
-        "zahra--9-1-4-7-1-4": datetime.datetime(2025, 1, 29)
+    'li-mu-wan': {
+        'license': datetime.datetime(2025, 2, 1),
+        'device': 'Xiaomi 22101316G'
     },
-    "Xiaomi 22101316G": {
-        "firzah-aureliaa": datetime.datetime(2025, 2, 9)
+    'zahra--9-1-4-7-1-4': {
+        'license': datetime.datetime(2025, 1, 29),
+        'device': 'Samsung Galaxy S21'
+    },
+    'FIRandZAH': {
+        'license': datetime.datetime(2025, 1, 13),
+        'device': 'OPPO A54'
+    },
+    'firzah-aureliaa': {
+        'license': datetime.datetime(2025, 2, 9),
+        'device': 'Vivo V23'
+    },
+    'zahra ayu🥰': {
+        'license': datetime.datetime(2024, 11, 28),
+        'device': 'Realme 8'
+    },
+    'ika cantik🥰': {
+        'license': datetime.datetime(2024, 12, 28),
+        'device': 'iPhone 14 Pro'
+    },
+    'Fghdolthooproy-eyrklpejkpf@#$@$$#@rirryippetu': {
+        'license': datetime.datetime(2034, 9, 28),
+        'device': 'Asus ROG Phone 5'
     }
 }
